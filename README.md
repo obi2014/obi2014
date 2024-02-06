@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning integration of codes
 - 💞️ I’m looking to collaborate on front end development
-- 📫 How to reach me obi2014@outlooo.com
+- 📫 How to reach me obi2014
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
